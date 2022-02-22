@@ -21,7 +21,7 @@ The ultimate strength Calculators is its innovative,user-friendly and long lasti
 
 # WEAKNESSES
 
-do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
+Do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
 
 # OPPORTUNITIES
 
